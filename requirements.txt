@@ -1,0 +1,4 @@
+jupyterlab-link-share
+jupyter-collaboration
+jupyterlab
+numpy
